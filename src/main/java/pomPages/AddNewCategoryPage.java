@@ -6,6 +6,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class AddNewCategoryPage {
+	//this script failed has been done
 	
 	@FindBy(xpath="//b[text()='Add New Category']")
 	private WebElement pageHeader;
