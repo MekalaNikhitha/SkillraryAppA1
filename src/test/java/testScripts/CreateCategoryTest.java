@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
 import genericLibraries.BaseClass;
-
+//This test is Pass
 public class CreateCategoryTest extends BaseClass {
 	@Test
 	public void createCategoryTest() throws InterruptedException  {
